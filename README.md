@@ -35,10 +35,8 @@ An Android-exclusive native calisthenics tracking app engineered with Material D
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakaiDek&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakaiDek&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakaiDek&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
 ---
 
 <div align="center">
